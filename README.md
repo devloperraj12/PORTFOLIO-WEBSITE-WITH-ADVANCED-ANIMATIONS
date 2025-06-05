@@ -22,6 +22,10 @@ Animated Sections: With GSAP, the header, profile section, and content cards ani
 LinkedIn Icon: Instead of displaying my full LinkedIn profile, I added a simple icon that links to my profile, making it safer and professional.
 Simple and Clean Design: I used soft colors, basic fonts, and card-style sections so that the website looks attractive but not complicated.
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/38d6c3fd-ad00-4f26-a2cd-d20ac0175536)
+![Image](https://github.com/user-attachments/assets/c7a48a3f-efd1-4f8d-ba05-156de27b4529)
+
 Why This Task Is Useful:
 This portfolio website can be shared with interviewers, teachers, or recruiters to show what I know about web development. It also helps me understand how real-world websites are built—from writing HTML to adding animations. I learned how to use a JavaScript library (GSAP) and improved my design skills too. This kind of website is great for personal branding and can also be used for freelance work or online resumes in the future.
 Overall, I enjoyed working on this task and gained good experience in frontend development.
