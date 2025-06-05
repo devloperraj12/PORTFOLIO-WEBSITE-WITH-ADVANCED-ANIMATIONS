@@ -27,3 +27,5 @@ This portfolio website can be shared with interviewers, teachers, or recruiters 
 Overall, I enjoyed working on this task and gained good experience in frontend development.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/731c2de4-9cb5-4a5a-982f-6001606cde31)
+![Image](https://github.com/user-attachments/assets/89d1c493-5d82-44e2-bd4d-5573679383ec)
